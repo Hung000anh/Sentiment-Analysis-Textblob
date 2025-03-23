@@ -1,4 +1,4 @@
-# sentiment-analysis-textblob
+# sentiment-analysis-Classification
 📌 **Text Classification with Machine Learning and Deep Learning**  
 
 📂 **Overview**  
